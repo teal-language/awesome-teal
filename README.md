@@ -13,6 +13,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * Parsing
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
     [tree-sitter](http://tree-sitter.github.io/tree-sitter/) parser for Teal
+  * [**ltreesitter**](https://github.com/euclidianAce/ltreesitter) - Lua bindings to the [tree-sitter](http://tree-sitter.github.io/tree-sitter) parsing library api, complete with Teal type definitions.
 
 ## Language integrations
 
@@ -28,6 +29,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 
 * [**vscode-teal**](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 * [**vim-teal**](https://github.com/teal-language/vim-teal) - Teal support for Vim
+* [**nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter) - Includes an installer for [tree-sitter-teal](https://github.com/euclidianAce/tree-sitter-teal) to use for high-performance syntax highlighting in NeoVim
 
 ## Web
 

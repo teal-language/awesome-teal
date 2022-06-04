@@ -40,6 +40,10 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**Teal Pages**](https://github.com/exlunaproject/teal-pages) - Teal Pages Template Preprocessor,
   enables `<?teal` tag that executes Teal
 
+## Neovim
+
+* [**crates.nvim**](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing [crates.io](https://crates.io/) dependencies
+
 ## Your project here!
 
 Are you using Teal? Do you have a project or know one using it? Send a pull request to this repository

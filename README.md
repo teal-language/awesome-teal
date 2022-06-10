@@ -39,6 +39,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 
 * [**Teal Pages**](https://github.com/exlunaproject/teal-pages) - Teal Pages Template Preprocessor,
   enables `<?teal` tag that executes Teal
+* [**Algernon**](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with support for Teal scripting
 
 ## Neovim
 
@@ -48,4 +49,3 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 
 Are you using Teal? Do you have a project or know one using it? Send a pull request to this repository
 or say hello at the [Gitter chat](https://gitter.im/teal-language/community) and let us know!
-

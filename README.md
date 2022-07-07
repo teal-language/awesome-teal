@@ -8,8 +8,9 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * Run Teal
   * [**tl**](https://github.com/teal-language/tl) - the Teal compiler!
   * [**teal-playground**](https://github.com/teal-language/teal-playground) - try Teal right from your browser!
-  * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface interface
-  to the Teal compiler", an experimental alternative CLI
+  * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface interface to the Teal compiler", an experimental alternative CLI
+  * [**cyan**](https://github.com/teal-language/cyan) - The Teal build system and project manager
+  * [**tlcheck**](https://github.com/svermeulen/tlcheck) - Simple command line tool to type check a given teal file/directory
 * Parsing
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
     [tree-sitter](http://tree-sitter.github.io/tree-sitter/) parser for Teal
@@ -44,6 +45,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 ## Neovim
 
 * [**crates.nvim**](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing [crates.io](https://crates.io/) dependencies
+* [**nvim-teal-maker**](https://github.com/svermeulen/nvim-teal-maker) - Neovim plugin that adds plugin support for teal language
 
 ## Your project here!
 

@@ -11,6 +11,8 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
   * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface interface to the Teal compiler", an experimental alternative CLI
   * [**cyan**](https://github.com/teal-language/cyan) - The Teal build system and project manager
   * [**tlcheck**](https://github.com/svermeulen/tlcheck) - Simple command line tool to type check a given teal file/directory
+  * [**tluvit**](https://github.com/UrNightmaree/tluvit) - A Teal (.tl) runner for the [Luvit](https://luvit.io) Runtime
+
 * Parsing
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
     [tree-sitter](http://tree-sitter.github.io/tree-sitter/) parser for Teal

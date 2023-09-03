@@ -12,6 +12,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
   * [**cyan**](https://github.com/teal-language/cyan) - The Teal build system and project manager
   * [**tlcheck**](https://github.com/svermeulen/tlcheck) - Simple command line tool to type check a given teal file/directory
   * [**tluvit**](https://github.com/UrNightmaree/tluvit) - A Teal (.tl) runner for the [Luvit](https://luvit.io) Runtime
+  * [**buck2_lua_rules**](https://github.com/svermeulen/buck2_lua_rules) - Support for using [Buck2](https://github.com/facebook/buck2) to build and run lua / tl scripts (alternative to cyan)
 
 * Parsing
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A

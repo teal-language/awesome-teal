@@ -38,6 +38,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**vim-teal**](https://github.com/teal-language/vim-teal) - Teal support for Vim
 * [**nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter) - Includes an installer for [tree-sitter-teal](https://github.com/euclidianAce/tree-sitter-teal) to use for high-performance syntax highlighting in NeoVim
 * [**howl-teal**](https://github.com/ghsttwn/howl-teal) - Teal support for Howl
+* [**tealycheck**](https://github.com/Yenoxel/tealycheck-for-geany) - Geany IDE supports Teal.
 
 ## Web
 

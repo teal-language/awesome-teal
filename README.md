@@ -8,6 +8,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * Run Teal
   * [**tl**](https://github.com/teal-language/tl) - the Teal compiler!
   * [**teal-playground**](https://github.com/teal-language/teal-playground) - try Teal right from your browser!
+  * [**tealdoc**](https://github.com/teal-language/tealdoc) - Teal documentation tool!
   * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface to the Teal compiler", an experimental alternative CLI
   * [**cyan**](https://github.com/teal-language/cyan) - The Teal build system and project manager
   * [**tlcheck**](https://github.com/svermeulen/tlcheck) - Simple command line tool to type check a given teal file/directory

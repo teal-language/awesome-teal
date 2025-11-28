@@ -15,6 +15,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
   * [**buck2_lua_rules**](https://github.com/svermeulen/buck2_lua_rules) - Support for using [Buck2](https://github.com/facebook/buck2) to build and run lua / tl scripts (alternative to cyan)
 
 * Parsing
+  * [**Teal Language Server**](https://github.com/teal-language/teal-language-server/)
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
     [tree-sitter](http://tree-sitter.github.io/tree-sitter/) parser for Teal
   * [**ltreesitter**](https://github.com/euclidianAce/ltreesitter) - Lua bindings to the [tree-sitter](http://tree-sitter.github.io/tree-sitter) parsing library api, complete with Teal type definitions.
@@ -39,6 +40,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**nvim-treesitter**](https://github.com/nvim-treesitter/nvim-treesitter) - Includes an installer for [tree-sitter-teal](https://github.com/euclidianAce/tree-sitter-teal) to use for high-performance syntax highlighting in NeoVim
 * [**howl-teal**](https://github.com/ghsttwn/howl-teal) - Teal support for Howl
 * [**tealycheck**](https://github.com/Yenoxel/tealycheck-for-geany) - Geany IDE supports Teal.
+* [**Lite XL**](https://lite-xl.com/) has syntax highlighting through Evergreen plugin, compilation checks through Linter+ plugin and Teal Language Server support
 
 ## Web
 

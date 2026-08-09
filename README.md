@@ -13,6 +13,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
   * [**tluvit**](https://github.com/UrNightmaree/tluvit) - A Teal (.tl) runner for the [Luvit](https://luvit.io) Runtime
   * [**buck2_lua_rules**](https://github.com/svermeulen/buck2_lua_rules) - Support for using [Buck2](https://github.com/facebook/buck2) to build and run lua / tl scripts (alternative to cyan)
   * [**teal-playground**](https://github.com/teal-language/teal-playground) - try Teal right from your browser!
+  * [**lde**](https://github.com/lde-org/lde) - Has [built-in support for running .tl files](https://lde.sh/docs/runtime/guides/teal) and scaffolding projects
 
 * Formatters
   * [**Cerulean**](https://github.com/efredriksson/cerulean)

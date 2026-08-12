@@ -21,6 +21,10 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 
 * Documentation
   * [**tealdoc**](https://github.com/teal-language/tealdoc) - Teal documentation tool
+  * [**ssdg**](https://codeberg.org/kmafeni04/ssdg) - A language agnostic documentation generator built on top of [lde](https://github.com/lde-org/lde) 
+
+ * CLI
+   * [**targs**](https://codeberg.org/kmafeni04/targs) - A command line argument parser for lua and teal built on top of [lde](https://github.com/lde-org/lde)
 
 * Parsing
   * [**Teal Language Server**](https://github.com/teal-language/teal-language-server/)

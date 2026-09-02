@@ -57,7 +57,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**howl-teal**](https://github.com/ghsttwn/howl-teal) - Teal support for Howl
 * [**tealycheck**](https://github.com/Yenoxel/tealycheck-for-geany) - Geany IDE supports Teal.
 * [**Lite XL**](https://lite-xl.com/) has syntax highlighting through Evergreen plugin, compilation checks through Linter+ plugin and Teal Language Server support
-* [**Kakoune**](https://github.com/mawww/kakoune/) has teal support in it's default rc
+* [**Kakoune**](https://github.com/mawww/kakoune/) has Teal support in its default rc directory
 
 ## Web
 

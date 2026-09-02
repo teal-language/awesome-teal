@@ -30,9 +30,6 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
    * [**tilt**](https://codeberg.org/kmafeni04/tilt) - A simple templating engine for lua and teal built on top of [lde](https://github.com/lde-org/lde)
    * [**html-lua**](https://codeberg.org/kmafeni04/html-lua) - An html DSL written for lua and teal built on top of [lde](https://github.com/lde-org/lde)
 
- * Web Servers
-   * [**tltp**](https://codeberg.org/kmafeni04/tltp) - A Teal/LuaJIT HTTP/1.1 web server library built on top of [lde](https://github.com/lde-org/lde)
-
 * Parsing
   * [**Teal Language Server**](https://github.com/teal-language/teal-language-server/)
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
@@ -66,6 +63,7 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**Teal Pages**](https://github.com/exlunaproject/teal-pages) - Teal Pages Template Preprocessor,
   enables `<?teal` tag that executes Teal
 * [**Algernon**](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with support for Teal scripting
+* [**tltp**](https://codeberg.org/kmafeni04/tltp) - A Teal/LuaJIT HTTP/1.1 web server library built on top of [lde](https://github.com/lde-org/lde)
 
 ## Neovim
 
